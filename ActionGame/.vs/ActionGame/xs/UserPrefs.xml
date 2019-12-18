@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8B985F04-3226-86B7-089F-F5BA3DD4FDA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Trap.cs">
+    <Files>
+      <File FileName="Assets/Player_move.cs" Line="34" Column="1" />
+      <File FileName="Assets/Camera_move.cs" Line="21" Column="66" />
+      <File FileName="Assets/Trap.cs" Line="8" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
