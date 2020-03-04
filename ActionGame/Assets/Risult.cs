@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Risult : MonoBehaviour
 {
-    private static List<float> times = new List<float>();
+    public static List<float> times = new List<float>();
     // Start is called before the first frame update
     void Start()
     {
